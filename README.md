@@ -7,15 +7,17 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **MERN STACK.**
+- 🚀 Eager MERN stack learner and open-source contributor, with a passion for crafting clean, innovative web solutions 💻.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Actively seeking collaborations to amplify skills and contribute to open-source projects 🌐.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sagar-dhyani.vercel.app/)**
 
-- 📫 How to reach me **sagardhyani0@gmail.com**
-
-- ⚡ Fun fact **I like to play cricket and go to the GYM very often.**
+- 🏋️‍♂️ Fitness enthusiast and cricket lover, infusing discipline and dedication into coding for robust project outcomes ⚡
+  
+- 🔗 Strong communication and collaboration skills🤝.
+  
+- 📫 Reach out at sagardhyani0@gmail.com for collaboration, insights, or to discuss exciting opportunities 💌.
 
 ## 🚀 Languages and Tools:
 
